@@ -58,7 +58,7 @@ Additionally, large language models, or alternatively, developing a NER system
 on labeled data could potentially offer improvements in entity detection.**
 
 <h1 style="">📖 Documentation</h1>
-For a complete guide to the documentation, please follow the steps outlined below to navigate through the GitHub repo:
+For a complete guide to the documentation, please follow the steps outlined below to navigate through the GitHub repo. Each section may have postive and negative articles. This is because the articles were divided into positive and negative articles, and following this, entity extraction, topic modeling and summarization was conducted.
 
 * [Presentation](https://github.com/sanchitkumar11/Review-of-AI-Adoption/tree/main/Presentation)
   
