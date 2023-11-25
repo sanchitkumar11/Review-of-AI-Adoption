@@ -60,18 +60,13 @@ on labeled data could potentially offer improvements in entity detection.**
 <h1 style="">📖 Documentation</h1>
 For a complete guide to the documentation, please follow the steps outlined below to navigate through the GitHub repo:
 
-* [Javi-The-Earnings-Call-Expert](https://github.com/brief-ai-uchicago/Javi-The-Earnings-Call-Expert): Chatbot powered by langchain.
+* [Presentation](https://github.com/sanchitkumar11/Review-of-AI-Adoption/tree/main/Presentation)
   
-* [LongShort-Dataset](https://github.com/brief-ai-uchicago/LongShort-Dataset): This is the dataset utilized for fine-tuning.
+* [Data preprocessing](https://github.com/sanchitkumar11/Review-of-AI-Adoption/tree/main/Preprocessing)
   
-* [LongShort-7B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-7B-Instruct-hf): A fine-tuned model designed for KPI (Key Performance Indicators) extraction.
+* [Sentiment Analysis](https://github.com/sanchitkumar11/Review-of-AI-Adoption/tree/main/Sentiment%20Analysis)
   
-* [LongShort-13B-Instruct-hf](https://github.com/brief-ai-uchicago/LongShort-13B-Instruct-hf): A fine-tuned model aimed at extracting KPIs.
-  
-* [Website](https://github.com/brief-ai-uchicago/Brief-AI): Platform's UI/UX.
-  
-* [Branding](https://github.com/brief-ai-uchicago/Branding): Repository containing branding documentation and assets.
-
+* [Topic Modeling](https://github.com/sanchitkumar11/Review-of-AI-Adoption/tree/main/Topic%20Modeling)
 
 
 
